@@ -100,6 +100,30 @@ We believe the next major disruption in finance is the tokenization of real-worl
 
 ---
 
+## Skills and Stack
+
+At Fraction Estate AS, we leverage a diverse set of skills and technologies to drive our innovative real estate investment platform. Our team is proficient in various areas, including blockchain technology, programming languages, and development tools.
+
+### Blockchain Technology
+We utilize the Cardano blockchain to tokenize physical properties, creating tradable digital assets (NFTs). This ensures transparency, security, and efficiency in our operations.
+
+### Programming Languages
+Our development team is skilled in multiple programming languages, including:
+- **Haskell:** Used for smart contract development on the Cardano blockchain.
+- **JavaScript/TypeScript:** For building interactive web applications and services.
+- **Python:** For data analysis, automation, and backend services.
+
+### Tools and Frameworks
+We employ a range of tools and frameworks to enhance our development process, such as:
+- **React:** For building user interfaces.
+- **Node.js:** For server-side development.
+- **Docker:** For containerization and deployment.
+- **Git:** For version control and collaboration.
+
+By combining these skills and technologies, we aim to deliver a robust and user-friendly platform for fractional real estate investment.
+
+---
+
 > **Fraction Estate AS is committed to making real estate investment accessible, transparent, and rewarding for everyone. Join us in shaping the future of property ownership.**
 
 ---
