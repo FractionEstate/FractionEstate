@@ -1,5 +1,3 @@
-create a comprehensive README.md for the company Fraction Estate AS GitHub page. @FractionEstate is the username same on x.com  please make it professional and existing for people to learn about us and our company
-
 # Fraction Estate AS
 
 Welcome to the official GitHub repository of **Fraction Estate AS** – your gateway to accessible, transparent, and innovative real estate investment through blockchain-powered fractional ownership.
