@@ -4,24 +4,54 @@ Welcome to the official GitHub repository of **Fraction Estate AS** – your gat
 
 ---
 
+## Table of Contents
+
+- [About Fraction Estate](#about-fraction-estate)
+- [Why Fractional Ownership?](#why-fractional-ownership)
+- [How Fraction Estate Works](#how-fraction-estate-works)
+- [Property Categories](#property-categories)
+- [Our Vision](#our-vision)
+- [Connect With Us](#connect-with-us)
+- [Get Involved](#get-involved)
+
+---
+
+## Mission and Vision
+
+At Fraction Estate AS, our mission is to democratize property investment, making it accessible, transparent, and rewarding for everyone. We envision a future where real estate investment is inclusive, efficient, and powered by blockchain technology.
+
+---
+
+## Key Benefits of Fractional Ownership
+
+Fractional ownership offers numerous advantages, including:
+
+- Lower entry barriers to real estate investment
+- Diversification across property types and locations
+- Transparent, blockchain-based ownership records
+- Passive income through rental yield distribution
+- Liquidity via a marketplace for trading fractional NFTs
+
+---
+
 ## About Fraction Estate
 
-Fraction Estate AS is a pioneering RealFi platform revolutionizing real estate investment by leveraging blockchain technology. Our mission is to democratize property investment, allowing anyone to buy, sell, and earn from real-world assets-fractionally, securely, and efficiently[2][4].
+Fraction Estate AS is a pioneering RealFi platform revolutionizing real estate investment by leveraging blockchain technology. Our mission is to democratize property investment, allowing anyone to buy, sell, and earn from real-world assets-fractionally, securely, and efficiently.
 
-We use the Cardano blockchain to tokenize physical properties, turning them into tradable digital assets (NFTs). This approach eliminates traditional barriers, reduces costs, and provides global access to real estate markets[2][4].
+We use the Cardano blockchain to tokenize physical properties, turning them into tradable digital assets (NFTs). This approach eliminates traditional barriers, reduces costs, and provides global access to real estate markets.
 
 ---
 
 ## Why Fractional Ownership?
 
-Fractional ownership enables multiple investors to collectively own a share of high-value assets-such as real estate-without the need for significant capital outlay. Each investor holds a portion of the asset and shares the benefits, including rental income and potential appreciation[1][3].
+Fractional ownership enables multiple investors to collectively own a share of high-value assets-such as real estate-without the need for significant capital outlay. Each investor holds a portion of the asset and shares the benefits, including rental income and potential appreciation.
 
 **Key Benefits:**
 - Lower entry barriers to real estate investment
 - Diversification across property types and locations
 - Transparent, blockchain-based ownership records
 - Passive income through rental yield distribution
-- Liquidity via a marketplace for trading fractional NFTs[1][2][4]
+- Liquidity via a marketplace for trading fractional NFTs
 
 ---
 
@@ -34,7 +64,7 @@ Our process makes real estate investment seamless and secure:
 3. **Marketplace Listing:** Tokenized properties are listed on our marketplace for investors to explore and purchase.
 4. **KYC & Compliance:** Investors complete KYC checks to ensure regulatory compliance and eligibility for rental distributions.
 5. **Property Management:** Fraction Estate handles all property operations, maintenance, and tenant relations.
-6. **Yield Distribution:** Rental income and profits are distributed to NFT holders in FET tokens, proportionate to their ownership[2].
+6. **Yield Distribution:** Rental income and profits are distributed to NFT holders in FET tokens, proportionate to their ownership.
 
 ---
 
@@ -44,19 +74,19 @@ We offer diverse investment opportunities tailored to different risk and return 
 
 - **Low Yield:** Stable residential properties with existing tenants
 - **Medium Yield:** Underdeveloped residential or commercial properties, including fix-and-flip projects
-- **High Yield:** Houses in Multiple Occupation (HMO), new builds, or shared office spaces with higher risk and return potential[2]
+- **High Yield:** Houses in Multiple Occupation (HMO), new builds, or shared office spaces with higher risk and return potential
 
 ---
 
 ## Our Vision
 
-We believe the next major disruption in finance is the tokenization of real-world assets. By bridging traditional real estate with blockchain, we empower a broader audience to participate in property investment, fostering inclusivity, transparency, and financial freedom[2].
+We believe the next major disruption in finance is the tokenization of real-world assets. By bridging traditional real estate with blockchain, we empower a broader audience to participate in property investment, fostering inclusivity, transparency, and financial freedom.
 
 ---
 
 ## Connect With Us
 
-- **Official Website:** fraction.estate[4]
+- **Official Website:** fraction.estate
 - **X (formerly Twitter):** [@FractionEstate](https://x.com/FractionEstate)
 - **GitHub:** [Fraction Estate AS](https://github.com/FractionEstate)
 
