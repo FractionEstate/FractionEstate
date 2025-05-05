@@ -109,7 +109,7 @@ We utilize the Cardano blockchain to tokenize physical properties, creating trad
 
 ### Programming Languages
 Our development team is skilled in multiple programming languages, including:
-- **Haskell:** Used for smart contract development on the Cardano blockchain.
+- **Aiken:** Used for smart contract development on the Cardano blockchain.
 - **JavaScript/TypeScript:** For building interactive web applications and services.
 - **Python:** For data analysis, automation, and backend services.
 
